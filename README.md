@@ -10,20 +10,20 @@ Transforming raw data into actionable insights through analytics, visualization,
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech in Civil Engineering at BIT Mesra (2023–2027)
+🎓 B.Tech in Civil Engineering, Birla Institute of Technology Mesra (Expected 2027)
 
-📊 Data Analyst passionate about solving business problems using data.
+📊 Data Analyst passionate about solving business problems through data and building impactful analytics solutions.
 
-💼 Currently working as a **Data Analyst Intern**, leveraging SQL, Python, Excel, and Power BI to clean data, build dashboards, and uncover meaningful business insights.
+💼 Currently working as a **Data Analyst Intern**, applying SQL, Python, Excel, and Power BI to analyze data, build interactive dashboards, and support data-driven decision making.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql" />
 </p>
 
 ### Analytics & Visualization
@@ -31,7 +31,7 @@ Transforming raw data into actionable insights through analytics, visualization,
 - SQL
 - Python
 - Power BI
-- Excel
+- Microsoft Excel
 - Google Sheets
 
 ---
@@ -43,6 +43,7 @@ Transforming raw data into actionable insights through analytics, visualization,
 An end-to-end data analytics project involving data cleaning, SQL-based business analysis, and interactive Power BI dashboards to uncover customer behavior, sales trends, and operational insights.
 
 **Tools Used**
+
 - SQL
 - Python
 - Power BI
@@ -52,9 +53,10 @@ An end-to-end data analytics project involving data cleaning, SQL-based business
 
 ### 📊 Retail Sales Dashboard
 
-Designed an interactive Excel dashboard to analyze sales performance, profitability, customer trends, and regional performance using Pivot Tables, Pivot Charts, and advanced Excel features.
+Designed an interactive Excel dashboard to analyze sales performance, profitability, customer trends, and regional performance using Pivot Tables, Pivot Charts, Power Query, and advanced Excel features.
 
 **Tools Used**
+
 - Microsoft Excel
 
 ---
@@ -62,17 +64,9 @@ Designed an interactive Excel dashboard to analyze sales performance, profitabil
 ## 🌱 Currently Learning
 
 - Advanced SQL
-- Statistical Analysis for Data Analytics
-- Business Acumen & Data-Driven Decision Making
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+- Statistical Analysis
+- Business Acumen for Data Analytics
+- Data Modeling & Analytics Best Practices
 
 ---
 
@@ -80,7 +74,7 @@ Designed an interactive Excel dashboard to analyze sales performance, profitabil
 
 - End-to-End Data Analytics Projects
 - Interactive Dashboard Development
-- SQL Optimization & Query Writing
+- SQL Query Optimization
 - Business Intelligence Solutions
 
 ---
@@ -101,18 +95,8 @@ Designed an interactive Excel dashboard to analyze sales performance, profitabil
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-<!--
-**vaibhavbahal/vaibhavbahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Featured Repositories
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍔 Swiggy Sales Analysis
+- 📊 Retail Sales Dashboard
+- 📈 More end-to-end analytics projects coming soon...
