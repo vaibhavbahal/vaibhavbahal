@@ -66,7 +66,7 @@ Designed an interactive Excel dashboard to analyze sales performance, profitabil
 - Advanced SQL
 - Statistical Analysis
 - Business Acumen for Data Analytics
-- Data Modeling & Analytics Best Practices
+- Data Modeling
 
 ---
 
@@ -92,11 +92,3 @@ Designed an interactive Excel dashboard to analyze sales performance, profitabil
 </a>
 
 </p>
-
----
-
-### 🚀 Featured Repositories
-
-- 🍔 Swiggy Sales Analysis
-- 📊 Retail Sales Dashboard
-- 📈 More end-to-end analytics projects coming soon...
